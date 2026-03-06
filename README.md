@@ -5,7 +5,9 @@ Welcome to my Data Analytics portfolio. This repository contains projects demons
 The projects in this repository focus on solving real-world business problems using structured data analysis and data-driven decision making.
 
 ---
+Skills: SQL | Python | Data Analysis | Machine Learning | Data Visualization
 
+---
 ## Skills Demonstrated
 
 * SQL Data Analysis

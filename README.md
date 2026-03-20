@@ -1,105 +1,103 @@
 # Data Analytics Portfolio
 
-Welcome to my Data Analytics portfolio. This repository contains projects demonstrating my skills in data analysis, SQL, Python, data visualization, and business insight generation.
+This repository showcases end-to-end data analytics projects focused on solving real-world business problems using SQL, Python, and Power BI.
 
-The projects in this repository focus on solving real-world business problems using structured data analysis and data-driven decision making.
-
----
-Skills: SQL | Python | Data Analysis | Machine Learning | Data Visualization
-
----
-## Skills Demonstrated
-
-* SQL Data Analysis
-* Python Data Analysis
-* Data Cleaning and Preprocessing
-* Exploratory Data Analysis (EDA)
-* Machine Learning Basics
-* Data Visualization
-* Business Insight Generation
+The projects demonstrate my ability to clean, analyze, and visualize data to generate actionable business insights.
 
 ---
 
-## Tools and Technologies
+## Skills
 
-* SQL Server
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-* GitHub
+**SQL:** Joins, Aggregations, CTEs, Window Functions  
+**Python:** Pandas, Data Cleaning, EDA  
+**Visualization:** Power BI  
+**Concepts:** KPI Analysis, Business Insights, Data Storytelling  
+
+---
+
+## Tools & Technologies
+
+- SQL Server  
+- Python (Pandas, NumPy)  
+- Power BI  
+- Jupyter Notebook  
+- GitHub  
 
 ---
 
 ## Projects
 
-### 1. Tenant Rental Analysis (SQL)
+### 1. Retail Sales Analytics Dashboard (SQL + Python + Power BI)
 
-**Objective:**
-Analyze tenant rental data to identify rental patterns, tenant segmentation, referral behavior, and property occupancy.
+**Objective:**  
+Analyze retail transaction data to identify revenue trends, customer behavior, and product performance.
 
-**Key Concepts Used:**
+**Key Work:**
+- Cleaned and transformed ~500K+ transaction records
+- Removed cancelled transactions and handled missing values
+- Engineered revenue metric using Quantity and Unit Price
+- Built interactive Power BI dashboard using DAX measures
 
-* SQL Joins
-* Aggregations
-* CASE statements
-* Subqueries
-* CTE
-* Window Functions
+**Key Insights:**
+- Revenue is heavily concentrated in the UK market  
+- Top 10 products drive a significant portion of total sales  
+- Sales show consistent growth over time  
+- A small group of products generates disproportionately high revenue  
 
-**Insights Generated:**
-
-* Identified high revenue properties
-* Segmented tenants based on rent value
-* Analyzed referral activity among tenants
-
-Project Link:
-SQL-Projects/Tenant-Rental-Analysis
+**Tools Used:** SQL, Python (Pandas), Power BI  
 
 ---
 
-### 2. Customer Churn Prediction & Revenue Risk Analysis (Python)
+### 2. Tenant Rental Analysis (SQL)
 
-**Objective:**
-Analyze customer behavior and build a machine learning model to predict churn risk.
+**Objective:**  
+Analyze tenant rental data to identify revenue patterns and tenant behavior.
 
-**Key Techniques Used:**
+**Key Work:**
+- Performed advanced SQL analysis using joins, CTEs, and window functions  
+- Analyzed rental trends and tenant segmentation  
+- Identified high-performing properties  
 
-* Data preprocessing
-* Exploratory data analysis
-* Logistic regression model
-* Model evaluation using ROC-AUC and classification metrics
+**Key Insights:**
+- High revenue generated from specific properties  
+- Tenant segmentation based on rental value  
+- Referral patterns among tenants  
 
-**Insights Generated:**
-
-* Identified factors contributing to customer churn
-* Highlighted revenue risk segments
-* Built predictive model for churn detection
-
-Project Link:
-Python-Projects/customer-churn-prediction
+**Tools Used:** SQL Server  
 
 ---
 
-## Purpose of This Repository
+### 3. Customer Churn Prediction (Python)
 
-This portfolio demonstrates my ability to:
+**Objective:**  
+Predict customer churn and identify high-risk revenue segments.
 
-* Work with structured datasets
-* Perform data analysis using SQL and Python
-* Build predictive models
-* Extract business insights from data
-* Present analytical findings clearly
+**Key Work:**
+- Performed data cleaning and exploratory data analysis  
+- Built classification model using Logistic Regression  
+- Evaluated model using ROC-AUC and accuracy metrics  
+
+**Key Insights:**
+- Identified key factors contributing to churn  
+- Highlighted high-risk customer segments  
+- Enabled proactive retention strategies  
+
+**Tools Used:** Python, Pandas, Scikit-learn  
+
+---
+
+## What I Bring
+
+- Strong foundation in SQL and data analysis  
+- Ability to clean and transform raw data into meaningful insights  
+- Experience building dashboards for business decision-making  
+- Focus on solving real-world problems using data  
 
 ---
 
 ## Author
 
-Swapnil Jha
-Aspiring Data Analyst
+**Swapnil Jha**  
+Aspiring Data Analyst  
 
-GitHub Profile:
-https://github.com/Swapnil-jha-24
+GitHub: https://github.com/Swapnil-jha-24

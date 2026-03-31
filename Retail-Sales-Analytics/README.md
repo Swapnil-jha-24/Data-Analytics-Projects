@@ -1,4 +1,4 @@
-# Online Retail Sales Analytics 
+# Retail Sales Analytics 
 
 ## Overview
 This project analyzes retail transaction data to uncover insights on sales performance, customer behavior, and product trends.
